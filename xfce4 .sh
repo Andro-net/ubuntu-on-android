@@ -6,7 +6,6 @@ rm -rf/var/lib/dpkg/info/*
 apt install dialog
 apt install neofetch sudo -y
 apt install wget -y 
-apt install git -y
 apt install xfce4 -y
 app install firefox
 clear
