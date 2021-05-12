@@ -8,9 +8,9 @@ apt install git
 
 git clone https://github.com/Andro-net/ubuntu-on-android.git
 
-# excute this
-chmod +x ubuntu-on-android
 #
+#cd ubuntu-on-android
+
 ls
 # now run this by following command
 bash ubuntu-on-android
