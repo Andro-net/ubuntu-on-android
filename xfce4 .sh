@@ -1,3 +1,4 @@
+proot-distro login ubuntu-18.04
 apt update && apt upgrade -y
 apt install tigervnc-standalne-server -y
 apt install sudo
