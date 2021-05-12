@@ -1,7 +1,6 @@
 apt update && apt upgrade -y
 apt install tigervnc-standalne-server -y
 apt install sudo
-a
 rm -rf/var/lib/dpkg/info/*
 apt install dialog
 apt install neofetch sudo -y
