@@ -16,3 +16,4 @@ ls
 bash ubuntu-on-android
 
 # now install xfce4 desktop by following command
+ls
