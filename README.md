@@ -17,5 +17,12 @@ bash ubuntu-on-android
 
 # now install xfce4 desktop by following command
 ls
-bash start-ubuntu.sh(or you can login mannually by giving this command)
+bash xfce4.sh
 
+# and finally you can start your ubuntu desktop on your Android 
+
+start-ubuntu.sh
+
+
+
+# enjoy.
