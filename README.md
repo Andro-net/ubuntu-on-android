@@ -20,6 +20,7 @@ ls
 bash start-ubuntu.sh
 
 # now install xfce4 desktop by following command
+
 ls
 
 bash xfce4.sh
