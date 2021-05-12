@@ -29,6 +29,6 @@ bash xfce4.sh
 # To connect vncserver 
 vncserver
 
-# thank you
+thank you
 
 # enjoy
