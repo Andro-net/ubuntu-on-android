@@ -1,1 +1,1 @@
-prooot-distro login ubuntu-18.04
+proot-distro login ubuntu-18.04
