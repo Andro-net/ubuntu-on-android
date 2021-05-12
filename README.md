@@ -1,4 +1,4 @@
-# ubuntu-on-android
+# xfce4 desktop on Android 
 run ubuntu on your android phone easily with a easy script
 # first install ubuntu by following command
 
