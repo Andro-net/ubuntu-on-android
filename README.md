@@ -26,7 +26,7 @@ git clone https://github.com/Andro-net/ubuntu-on-android.git
 
 # now install xfce4 desktop by following command
 
-Cd ubuntu on Android 
+Cd ubuntu-on-android
 
 ls
 
